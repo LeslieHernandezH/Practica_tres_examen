@@ -1,0 +1,62 @@
+.barra2xdxd{
+    background-color: orangered; 
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.uwu{
+    text-align: end;
+    font-size: 50px;
+    color: white;
+}
+.owo{
+    font-size: 50px;
+}
+.inicio{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
+.barra{
+    background-color: #1c83f1;
+}
+
+.barra2{
+    text-align: center;
+    font-size: 17px;
+    
+}
+.cuadritos{
+    font-size: 24px;
+    font-weight: 500;
+}
+.icono1{
+    height: 20px;
+    width: 20px;
+}
+.icono2{
+    height: 20px;
+    width: 20px;
+}
+.icono3{
+    height: 25px;
+    width: 25px;
+}
+h5{
+    font-size: 25px;
+}
+p{
+    font-size: 18px;
+}
+.iconoprincipal{
+    height: 70px;
+    width: 70px;
+}
+.nombre {
+    text-align: center;
+    font-size: large;
+    color: beige;
+}
